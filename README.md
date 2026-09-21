@@ -143,19 +143,19 @@ Three carousels that came out of this system, rendered on Canvas 2D by the small
 
 ![AI Dictionary](docs/screenshots/ai-dictionary.png)
 
-A to Z of AI terms drawn on one seamless keyboard canvas, split into nine slides so every swipe cuts through a letter or a key. Nine slides, 1080 x 1440 each. [Open it live](RAILWAY_URL/ai-dictionary)
+A to Z of AI terms drawn on one seamless keyboard canvas, split into nine slides so every swipe cuts through a letter or a key. Nine slides, 1080 x 1440 each. [Open it live](https://leadgenman-carousels-production.up.railway.app/ai-dictionary)
 
 ### My Claude Code Setup That Replaced a 5-Person Team
 
 ![My Claude Code Setup That Replaced a 5-Person Team](docs/screenshots/claude-replaced-team.png)
 
-A macOS Finder window with one coloured folder per job my setup took over, the mascot on every folder, the hook in the top half so it survives the grid crop. Eight slides, 1080 x 1350 each. [Open it live](RAILWAY_URL/claude-replaced-team)
+A macOS Finder window with one coloured folder per job my setup took over, the mascot on every folder, the hook in the top half so it survives the grid crop. Eight slides, 1080 x 1350 each. [Open it live](https://leadgenman-carousels-production.up.railway.app/claude-replaced-team)
 
 ### Claude Code Finder Folders
 
 ![Claude Code Finder Folders](docs/screenshots/claude-code-folders.png)
 
-A hero folder, a real macOS right-click menu with the keyword CTA sitting on the highlighted row, then three feature folders. Three slides, 1080 x 1080 each. [Open it live](RAILWAY_URL/claude-code-folders)
+A hero folder, a real macOS right-click menu with the keyword CTA sitting on the highlighted row, then three feature folders. Three slides, 1080 x 1080 each. [Open it live](https://leadgenman-carousels-production.up.railway.app/claude-code-folders)
 
 Source for all three lives in [`examples/carousels/`](examples/carousels/).
 
