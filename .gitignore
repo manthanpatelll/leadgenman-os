@@ -1,0 +1,8 @@
+node_modules/
+.next/
+.verify/
+.railway/
+.env
+.env.*
+.DS_Store
+exports/
